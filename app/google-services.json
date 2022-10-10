@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595525367437",
+    "project_id": "paslaugos-a64b7",
+    "storage_bucket": "paslaugos-a64b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595525367437:android:ab0b2609b4f454d54054c4",
+        "android_client_info": {
+          "package_name": "com.example.paskutineuzd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595525367437-kgeqvkllg957jsjrj0v8vppm1hdod521.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJWjdlQe7DdJgQYkv-gdKOv7JN0wYtuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595525367437-kgeqvkllg957jsjrj0v8vppm1hdod521.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
