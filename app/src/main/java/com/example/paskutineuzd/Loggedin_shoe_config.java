@@ -92,7 +92,7 @@ public class Loggedin_shoe_config {
                     builder.setCancelable(true);
                     builder.setTitle("Delete");
                     builder.setMessage("Are you sure want to delete: " + shoe.getShoeBrand());
-                    builder.setPositiveButton("Confirm",
+                    builder.setPositiveButton("Confirm!",
                             new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
